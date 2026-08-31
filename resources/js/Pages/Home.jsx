@@ -16,11 +16,21 @@ export default function Home() {
                             Home
                         </a>
 
-                        <a href="#" className="hover:underline">
+                        <a href="/about-us" className="hover:underline">
                             About
                         </a>
 
-                        <a href="#" className="hover:underline">
+                        <a href="/projects" className="hover:underline">
+                            Projects
+                        </a>
+
+                        <a href="/services" className="hover:underline">
+                            Services
+                        </a>
+
+                        
+
+                        <a href="/contact" className="hover:underline">
                             Contact
                         </a>
                     </nav>
