@@ -256,7 +256,3 @@ Before submitting a pull request:
 6. Check the browser console for errors.
 7. Follow the Conventional Commit format.
 8. Keep unrelated changes out of your branch.
-
-## License
-
-Add project license information here.
