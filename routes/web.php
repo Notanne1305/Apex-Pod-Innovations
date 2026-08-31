@@ -11,8 +11,8 @@ Route::get('/about-us', function () {
     return Inertia::render('AboutUs');
 });
 
-Route::get('/contact', function () {
-    return Inertia::render('Contact');
+Route::get('/contact-us', function () {
+    return Inertia::render('ContactUs');
 });
 
 Route::get('/projects', function () {

@@ -27,10 +27,7 @@ export default function Home() {
                         <a href="/services" className="hover:underline">
                             Services
                         </a>
-
-                        
-
-                        <a href="/contact" className="hover:underline">
+                        <a href="/contact-us" className="hover:underline">
                             Contact
                         </a>
                     </nav>
