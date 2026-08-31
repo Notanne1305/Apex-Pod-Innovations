@@ -1,5 +1,7 @@
 # Apex Pod Innovations
 
+> **Work in Progress** — This project is currently under active development. Features, UI, and project structure may change as development continues.
+
 A web application built with Laravel, React, Inertia.js, Vite, and Tailwind CSS.
 
 ## Tech Stack
